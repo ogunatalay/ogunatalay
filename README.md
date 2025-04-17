@@ -17,7 +17,7 @@
 
 Ben Ogün ATALAY, Kahramanmaraş Sütçü İmam Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
 Yapay zeka, makine öğrenmesi, doğal dil işleme ve görüntü işleme gibi alanlara özel bir ilgim var.  
-Aynı zamanda web geliştirme ve test mühendisliği konularında da projeler geliştirmekteyim.  
+Aynı zamanda yapay zeka, makine öğrenmesi, doğal dil işleme, görüntü işleme, derin öğrenme ve web tasarımı gibi konularında da projeler geliştirmekteyim.  
 
 > 🎯 Amacım, teknolojiyle insanların hayatlarını kolaylaştıran ve anlamlı katkılar sağlayan çözümler geliştirmek!
 
@@ -39,16 +39,16 @@ Aynı zamanda web geliştirme ve test mühendisliği konularında da projeler ge
 
 | Proje Adı | Açıklama | Teknolojiler |
 |----------|----------|--------------|
-| **Saldırgan Dil Tespiti** | Türkçe tweet'lerden saldırgan içerik tespiti | Python, NLP, ML |
-| **Hava Durumu Sınıflandırma** | ML ile hava durumu analizi | Python, Pandas, Sklearn |
-| **Atık Sınıflandırma** | Derin öğrenmeyle çöp sınıflandırma | Python, CNN |
-| **Karbon Ayak İzi Tahmin** | Plastik tanıma ve çevresel analiz | Python, ML |
-| **Duygu Analizi** | Görüntülerden duygu çıkarımı | Python, CV2 |
+| **Saldırgan Dil Tespiti** | Türkçe tweet'lerden saldırgan içerik tespiti | Python |
+| **Hava Durumu Sınıflandırma** | ML ile hava durumu analizi | Python |
+| **Atık Sınıflandırma** | Derin öğrenmeyle çöp sınıflandırma | Python |
+| **Karbon Ayak İzi Tahmin** | Plastik tanıma ve çevresel analiz | Python |
+| **Duygu Analizi** | Görüntülerden duygu çıkarımı | Python |
 | **Damak Rehberi** | Yemek öneri platformu | HTML, CSS, JS |
 | **Meetmate** | Etkinlik paylaşım platformu | HTML, CSS, JS |
 | **Veritabanı Uygulaması** | Banka verisi yönetimi | PHP, SQL |
 | **DNA & Protein Analizi** | Biyoinformatik çözüm | Python, NCBI |
-
+| **ML Assignments** | Makine Öğrenmesi | Python, NCBI |
 ---
 
 ## 👨‍🏫 Eğitim & Stajlar
@@ -56,7 +56,7 @@ Aynı zamanda web geliştirme ve test mühendisliği konularında da projeler ge
 - 🎓 **KSÜ | Bilgisayar Mühendisliği** – 2021 – Günümüz  
 - 🏢 **Halkbank A.Ş. (Yazılım Stajı)** – Temmuz 2023 – Ağustos 2023  
 - 🏢 **Halkbank A.Ş. (Donanım Stajı)** – Temmuz 2024 – Ağustos 2024  
-- 💡 **HexaOps Teknoloji A.Ş. (Teknokent)** – Kasım 2024 – Devam  
+- 💡 **Hexaops Teknoloji A.Ş. (Teknokent)** – Kasım 2024 – Devam  
 
 ---
 
@@ -79,7 +79,7 @@ Aynı zamanda web geliştirme ve test mühendisliği konularında da projeler ge
 - 🔍 Git, GitHub, Agile, Proje Yönetimi  
 - 📄 Dokümantasyon & Raporlama  
 - 🤝 Takım Çalışması ve İletişim  
-- 🎨 Temel UI/UX Bilgisi
+- 🎨 Temel UI/UX Bilgisi - Tasarım
 
 ---
 
