@@ -47,7 +47,7 @@ Aynı zamanda yapay zeka, makine öğrenmesi, doğal dil işleme, görüntü iş
 | **Damak Rehberi** | Yemek öneri platformu | HTML, CSS, JS |
 | **Meetmate** | Etkinlik paylaşım platformu | HTML, CSS, JS |
 | **Veritabanı Uygulaması** | Banka verisi yönetimi | PHP, SQL |
-| **DNA & Protein Analizi** | Biyoinformatik çözüm | Python, NCBI |
+| **DNA & Protein Analizi** | Biyoinformatik | Python, NCBI |
 | **ML Assignments** | Makine Öğrenmesi | Python, NCBI |
 ---
 
