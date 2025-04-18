@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Bilgisayar+Mühendisliği+Öğrencisi;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı;Sürekli+öğrenen+ve+üreten+bir+mühendis+aday%C4%B1&center=true&width=500&height=45&color=00bfbf&vCenter=true&pause=1000" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7A0&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Zeynep;Yazılım+Geliştiriciyim;Haydi+Bağlantı+Kuralım!" alt="Typing SVG" />
-  </a>
-</p>
 
 
 <p align="center">
