@@ -4,9 +4,8 @@
 
 
 <p align="center">
- lines=Bilgisayar+Mühendisliği+Öğrencisi;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı;Sürekli+öğrenen+ve+üreten+bir+mühendis+aday%C4%B1&center=true&width=500&height=45&color=00bfbf&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Bilgisayar+Mühendisliği+Öğrencisi;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı;Sürekli+öğrenen+ve+üreten+bir+mühendis+adayı&center=true&width=500&height=45&color=00bfbf&vCenter=true&pause=1000" />
 </p>
-
 
 
 <p align="center">
