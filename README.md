@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Merhaba!+Ben+Ogün+Atalay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=MERHABA+BEN+OGÜN+ATALAY!" alt="Typing SVG" />
 </h1>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bilgisayar+Mühendisliği+Öğrencisi;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı;Sürekli+öğrenen+ve+üreten+bir+mühendis+aday%C4%B1&center=true&width=500&height=45&color=00bfbf&vCenter=true&pause=1000" />
+ lines=Bilgisayar+Mühendisliği+Öğrencisi;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı;Sürekli+öğrenen+ve+üreten+bir+mühendis+aday%C4%B1&center=true&width=500&height=45&color=00bfbf&vCenter=true&pause=1000" />
 </p>
 
 
