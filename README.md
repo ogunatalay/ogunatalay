@@ -19,8 +19,32 @@ Makine öğrenmesi, doğal dil işleme, derin öğrenme, görüntü işleme ve v
 ## 🚀 Teknolojiler & Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,numpy,pandas,opencv,git,github,vscode,linux&theme=light" />
+  <!-- IDE & Platformlar -->
+  <img src="https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-PyCharm-143?logo=pycharm&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Notebook-GoogleColab-F9AB00?logo=googlecolab&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Python & AI Libraries -->
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-005571?logo=python&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Diğer -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
+
 
 ---
 
