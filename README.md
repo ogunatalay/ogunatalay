@@ -81,7 +81,7 @@ Google Colaboratory, PyCharm, Microsoft Visual Studio, UCI ML Repository, Kaggle
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ogunatalay)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ogünatalay)  
 - 📧 ogun.atalay33@gmail.com  
 
 ---
