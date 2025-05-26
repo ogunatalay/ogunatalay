@@ -79,6 +79,38 @@ Google Colaboratory, PyCharm, Microsoft Visual Studio, UCI ML Repository, Kaggle
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ogunatalay/snake-game/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+---
+
+### 👁️‍🗨️ Visitor Badge
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ogunatalay.ogunatalay)
+
+---
+
+### ⏱️ Wakatime Coding Activity
+
+[![wakatime](https://wakatime.com/badge/user/XXXXXXX/project/XXXXXXX.svg)](https://wakatime.com/@XXXXXXX)
+
+*(Wakatime kullanıcı ve proje ID’lerini kendi hesabına göre güncellemelisin)*
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ogunatalay&color=red)
+
+---
+
+### 💬 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
 ### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogunatalay)  
