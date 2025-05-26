@@ -1,7 +1,6 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7A0&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ogün+ATALAY;I'm+a+Computer+Engineer;Let's+Connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ogün+ATALAY;I'm+a+Computer+Engineer;Let's+Connect!)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,10 +68,20 @@ Google Colaboratory, PyCharm, Microsoft Visual Studio, UCI ML Repository, Kaggle
 
 ---
 
-### 📫 How to Reach Me
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ogunatalay)  
-- 📧 ogunatalay@example.com  
+<div align="center">
+
+![Ogün's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogunatalay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunatalay&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
+### 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ogunatalay)  
+- 📧 ogun.atalay33@gmail.com  
+
+---
